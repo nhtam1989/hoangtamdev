@@ -1,53 +1,31 @@
+# Nguyen Hoang Tam
 
-# About Me
+## Senior Full-Stack JavaScript Engineer
 
-I'm a **full-stack software engineer** with 7 years of experience in web development. My expertise includes:
+8+ years of experience building scalable web applications and backend systems with Node.js, TypeScript, React.js and Next.js.
 
-- **4 years** of experience in web development with JavaScript (Node.js + React.js).
-- **3 years** of experience in PHP (MVC + Laravel).
+### Core Skills
 
-## Skills
+`Node.js` `TypeScript` `Express.js` `React.js` `Next.js` `MongoDB` `MySQL` `Redis` `Elasticsearch` `RabbitMQ` `Docker` `GitHub Actions` `AWS` `GCP`
 
-- **JavaScript**: Node.js, React.js
-- **PHP**: MVC, Laravel
-- **Web Development**: Full-stack development, RESTful APIs
-- **Best Practices**: Continual learning of new technologies and best practices
+### Featured Portfolio Projects
 
-## Projects
+- [E-commerce Platform Architecture](./01-ecommerce-platform/README.md)
+- [AWS EC2 → Cloud Migration](./02-cloud-migration/README.md)
+- [Event-Driven Authentication](./03-event-driven-auth/README.md)
+- [Database & API Performance Optimization](./04-performance-optimization/README.md)
 
-I have worked on various projects including web applications, API integrations, and more. I am passionate about creating efficient and scalable solutions.
+> These portfolio projects are technical case studies based on my professional experience. They describe architecture, engineering decisions and challenges without exposing proprietary source code or confidential information.
 
-## Learning and Growth
+### Professional Experience
 
-I dedicate time to learning new technologies and best practices to continually improve my skills as an engineer.
+**Spacet — Senior Full-Stack JavaScript Engineer**  
+Nov 2024 – Mar 2026
 
-## Contact
+**The Parent Inc — Full-Stack Developer**  
+Apr 2020 – Jun 2024
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/hoang-tam-dev/) or [GitHub](https://github.com/nhtam1989/about-me).
+### Contact
 
----
-
-Thank you for visiting my profile!
-
-## 📈 Github Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nhtam1989&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nhtam1989&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
+- Email: nhtam1989@gmail.com
+- LinkedIn: https://linkedin.com/in/hoang-tam-dev
